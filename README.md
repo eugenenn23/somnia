@@ -25,7 +25,7 @@ Simply choose an action by entering its number, and the bot will perform the cor
 
 ## Installation
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/eugenenn23/somnia/
+cd somnia
 npm install
 node index.js
